@@ -1,4 +1,4 @@
-# Build-a-chatbot-on-AWS-using-terraform
+# Build-a-chatbot-on-AWS-using-terraform and the AWS console
 In this project I will be utilizing Amazon Lex - this will be deployed using Terraform and the AWS console. I built a pizza chatbot which was able to adapt to various responses from customers
 
 
